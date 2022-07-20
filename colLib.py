@@ -1,7 +1,6 @@
 
 
 #
-#   made by: noTme
 #   name: colLib
 #   program: library for collision detection
 #
