@@ -14,3 +14,4 @@ Small collision detection library for pygame
 ## **_IMPORTAINT !!!_**
 * the rects must be **_"pygame.Rect"_**
 * the circle must be a list : **_"[x, y, radius]"_**
+* the collision is not tested for rectangles, squares should work
